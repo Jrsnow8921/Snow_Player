@@ -1,0 +1,9 @@
+C:\Users\jsnow\Desktop\Snow_player\bin\Debug\zMoviePlayer.exe
+C:\Users\jsnow\Desktop\Snow_player\bin\Debug\zMoviePlayer.pdb
+C:\Users\jsnow\Desktop\Snow_player\obj\Debug\zMoviePlayer.csprojResolveAssemblyReference.cache
+C:\Users\jsnow\Desktop\Snow_player\obj\Debug\zap.MAIN_Form.resources
+C:\Users\jsnow\Desktop\Snow_player\obj\Debug\zap.Properties.Resources.resources
+C:\Users\jsnow\Desktop\Snow_player\obj\Debug\zap.VISTA_Track.resources
+C:\Users\jsnow\Desktop\Snow_player\obj\Debug\zMoviePlayer.csproj.GenerateResource.Cache
+C:\Users\jsnow\Desktop\Snow_player\obj\Debug\zMoviePlayer.exe
+C:\Users\jsnow\Desktop\Snow_player\obj\Debug\zMoviePlayer.pdb

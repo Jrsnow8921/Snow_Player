@@ -1,0 +1,8 @@
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Debug\SnowPlayer.csproj.GenerateResource.Cache
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Debug\SnowPlayer.Properties.Resources.resources
+C:\Users\jsnow\Desktop\Snow_player\bin\x86\Debug\SnowPlayer.exe
+C:\Users\jsnow\Desktop\Snow_player\bin\x86\Debug\SnowPlayer.pdb
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Debug\SnowPlayer.exe
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Debug\SnowPlayer.pdb
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Debug\SnowPlayer.MAIN_Form.resources
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Debug\SnowPlayer.VISTA_Track.resources

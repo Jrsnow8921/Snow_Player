@@ -1,0 +1,7 @@
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Release\zap.MAIN_Form.resources
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Release\zap.Properties.Resources.resources
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Release\zap.VISTA_Track.resources
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Release\SnowPlayer.csproj.GenerateResource.Cache
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Release\SnowPlayer.MAIN_Form.resources
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Release\SnowPlayer.Properties.Resources.resources
+C:\Users\jsnow\Desktop\Snow_player\obj\x86\Release\SnowPlayer.VISTA_Track.resources
